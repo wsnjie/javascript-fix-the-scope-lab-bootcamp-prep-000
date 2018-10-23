@@ -13,7 +13,7 @@ var animal = 'cat'
 }
 
 function add2(n) {
-var n = 370
+var n = 378
 const two = 2
   return n + two
 
