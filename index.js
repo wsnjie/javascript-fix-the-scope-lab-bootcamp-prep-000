@@ -14,10 +14,10 @@ var animal = 'cat'
 
 function add2(n) {
 var n = 370
+const two = 2
   return n + two
 
   // Feel free to move things around!
-  const two = 2
 }
 
 var funkyFunction = function() {
